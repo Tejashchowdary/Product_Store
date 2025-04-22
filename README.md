@@ -1,5 +1,4 @@
-Product Store
-Live Link:https://product-store-rrbu.onrender.com
+Product Store🥳
 A full-stack e-commerce product store built with the MERN stack (MongoDB, Express.js, React, Node.js). This project allows users to view and manage products within the store.
 
 Features
