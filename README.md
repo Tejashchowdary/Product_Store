@@ -1,6 +1,6 @@
 Product Store🥳
 A full-stack e-commerce product store built with the MERN stack (MongoDB, Express.js, React, Node.js). This project allows users to view and manage products within the store.
-
+![Image](https://github.com/user-attachments/assets/9b530dea-4f39-46d1-b548-a547999631a2)
 Features
 Product Listing: View a list of available products.
 
